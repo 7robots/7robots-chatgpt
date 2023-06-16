@@ -6,6 +6,9 @@ Ventz Petkov
 Chris Stubbs
 Logan McCarty
 Gregory Kestin
+Tamara Brenner
+Adam Beaver
+David Malan
 
 
 The agenda of this meeting is regarding the use of Generative AI in the classroom
