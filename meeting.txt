@@ -1,0 +1,11 @@
+The attendees of this meeting include:
+
+Jefferson Burson
+Dave LaPorte
+Ventz Petkov
+Chris Stubbs
+Logan McCarty
+Gregory Kestin
+
+
+The agenda of this meeting is regarding the use of Generative AI in the classroom
